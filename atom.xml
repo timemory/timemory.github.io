@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-15T03:39:00.599Z</updated>
+  <updated>2016-06-16T02:45:04.738Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无线键盘鼠标与 USB3.0 冲突</title>
+    <link href="http://yoursite.com/2016/06/16/%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87%E4%B8%8E-USB3-0-%E5%86%B2%E7%AA%81/"/>
+    <id>http://yoursite.com/2016/06/16/无线键盘鼠标与-USB3-0-冲突/</id>
+    <published>2016-06-16T02:39:31.000Z</published>
+    <updated>2016-06-16T02:45:04.738Z</updated>
+    
+    <content type="html">&lt;p&gt;最近买了套 2.4Hz 的无线键盘鼠标套装，支持 AES （可以在一定程度上保证了数据的安全传输，日常生活够用）。&lt;/p&gt;
+&lt;p&gt;收到之后即把适配器插到 USB 接口，开始使用。&lt;/p&gt;
+&lt;p&gt;不过此时遇到了问题，鼠标出现了漂移、失效，键盘按键也失效。本来以为是键盘硬件的问题，后来 Google 到了真正的原因：&lt;br&gt;&lt;strong&gt;USB 3.0 无线频率会对 2.4 GHz 设备产生干扰&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Intel 官方文档 ：&lt;br&gt;&lt;a href=&quot;http://www.intel.cn/content/www/cn/zh/io/universal-serial-bus/usb3-frequency-interference-paper.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.intel.cn/content/www/cn/zh/io/universal-serial-bus/usb3-frequency-interference-paper.html&lt;/a&gt;&lt;br&gt;华硕的解释：&lt;br&gt;&lt;a href=&quot;https://www.asus.com/cn/support/faq/1004004/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.asus.com/cn/support/faq/1004004/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;解决方法&quot;&gt;&lt;a href=&quot;#解决方法&quot; class=&quot;headerlink&quot; title=&quot;解决方法&quot;&gt;&lt;/a&gt;解决方法&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;基本方法：让 2.4GHz 的适配器远离 USB3.0 工作的接口。例如使用延长线。&lt;/li&gt;
+&lt;li&gt;终极方法：抛弃 2.4GHz 无线键鼠，使用蓝牙键鼠、有线键盘。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;PS: USB3.0 同样会对 2.4GHz 的wifi 造成干扰&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近买了套 2.4Hz 的无线键盘鼠标套装，支持 AES （可以在一定程度上保证了数据的安全传输，日常生活够用）。&lt;/p&gt;
+&lt;p&gt;收到之后即把适配器插到 USB 接口，开始使用。&lt;/p&gt;
+&lt;p&gt;不过此时遇到了问题，鼠标出现了漂移、失效，键盘按键也失效。本来以为是键盘硬件的问
+    
+    </summary>
+    
+    
+      <category term="硬件" scheme="http://yoursite.com/tags/%E7%A1%AC%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
