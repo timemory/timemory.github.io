@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-16T03:43:24.126Z</updated>
+  <updated>2016-06-30T08:58:09.054Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,68 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微软无线键盘售后历程</title>
+    <link href="http://yoursite.com/2016/06/30/%E5%BE%AE%E8%BD%AF%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E5%94%AE%E5%90%8E%E5%8E%86%E7%A8%8B/"/>
+    <id>http://yoursite.com/2016/06/30/微软无线键盘售后历程/</id>
+    <published>2016-06-30T08:57:08.000Z</published>
+    <updated>2016-06-30T08:58:09.054Z</updated>
+    
+    <content type="html">&lt;p&gt;这是第一次寻求微软售后，将相关的历程记录，给网友们提供参考。&lt;/p&gt;
+&lt;p&gt;之前买的 2.4Ghz 无线键盘接收器出现了问题，时间不到一年，仍在保修期内。遂找微软售后解决。&lt;/p&gt;
+&lt;p&gt;###微软售后代理：联强&lt;/p&gt;
+&lt;p&gt;经过 Google 发现微软键盘在大陆的售后由&lt;a href=&quot;http://www.synnex.com.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;联强&lt;/strong&gt;&lt;/a&gt;代理。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.synnex.com.cn/PubServiceProvideAction.do?method=queryArticleContent&amp;amp;seqNo=443&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;联强官方关于微软硬件售后政策的公告    &lt;03.24.2015&gt;&lt;/03.24.2015&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;###具体步骤&lt;/p&gt;
+&lt;p&gt;分两种情况：&lt;/p&gt;
+&lt;p&gt;1.有发票&lt;/p&gt;
+&lt;p&gt;发票保留的话，直接联系联强售后电话 400-670-3001&lt;/p&gt;
+&lt;p&gt;2.无发票&lt;/p&gt;
+&lt;p&gt;我属于此种情况。&lt;/p&gt;
+&lt;p&gt;发票丢失，需要联系微软的客服，做质保。&lt;br&gt;由微软客服登记信息，向联强下工单处理。&lt;/p&gt;
+&lt;p&gt;客服电话：800-820-3800 或 400-820-3800&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;拨 1 （个人用户）——再拨 2 （技术支持），&lt;/p&gt;
+&lt;p&gt;——然后拨 2 （Office，这一步有点） ，转到人工客服。&lt;/p&gt;
+&lt;p&gt;客服会问你相关的问题，和 PID 后 4 位。&lt;/p&gt;
+&lt;p&gt;质保开始日期是按&lt;strong&gt;生产日期顺延 6 个月&lt;/strong&gt;（这一点还是比较合理的。）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;客服会问你的邮箱，电话结束后会给你发送邮件。让你提供键盘的正面、反面以及 PID 的照片。&lt;br&gt;处理时限被告知是 1 到 4 个工作日。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;以我的情况来看，打电话之后隔了一天，联强售后给我打来电话，让我将设备快递过去（附纸条留下自己的电话、姓名、地址和身份证号）。&lt;br&gt;他们收到快递后的第三天将更换的键盘发出（使用的是顺丰，济南联强），次日收到。&lt;/p&gt;
+&lt;p&gt;###运费&lt;/p&gt;
+&lt;p&gt;同城的话运费自付。当然同城直接人肉搬运。&lt;/p&gt;
+&lt;p&gt;异地的话各半。&lt;/p&gt;
+&lt;p&gt;###几点吐槽&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;需要提供身份证号码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;问了一下联强客服，这是微软要求的。&lt;br&gt;没辙，提供了一个虚构的号码（毕竟涉及隐私）&lt;br&gt;本来以为他们会有身份验证系统，验证姓名与身份证号匹配。&lt;br&gt;然而并没有，也可能跟各地公司有关。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;处理进度提醒&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不得不吐槽，不管是微软还是联强并没有主动提供售后处理的进度。&lt;br&gt;至少可以发货之后来个电话或者短信也好。&lt;br&gt;最好提供运单号。&lt;/p&gt;
+&lt;p&gt;当然只能打电话询问处理的情况。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;取件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;需要身份证号取件，所以上述的身份证号牢记。当然可以看与快递员的熟识度。&lt;/p&gt;
+&lt;p&gt;拆包后，包装盒是拆开的，包装盒的 PID 标签被割掉了（应该是售后的标准做法），键盘有被使用过的痕迹（不知是否为翻新机）&lt;/p&gt;
+&lt;p&gt;###总结&lt;/p&gt;
+&lt;p&gt;相对来说，售后质量和效率可以接受。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是第一次寻求微软售后，将相关的历程记录，给网友们提供参考。&lt;/p&gt;
+&lt;p&gt;之前买的 2.4Ghz 无线键盘接收器出现了问题，时间不到一年，仍在保修期内。遂找微软售后解决。&lt;/p&gt;
+&lt;p&gt;###微软售后代理：联强&lt;/p&gt;
+&lt;p&gt;经过 Google 发现微软键盘在大陆的售后由
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>无线键盘鼠标与 USB3.0 冲突</title>
