@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-12T06:25:11.342Z</updated>
+  <updated>2016-10-13T08:26:13.940Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通过 SSH 修改 mac VNC Server 密码</title>
+    <link href="http://yoursite.com/2016/10/13/%E9%80%9A%E8%BF%87-SSH-%E4%BF%AE%E6%94%B9-mac-VNC-Server-%E5%AF%86%E7%A0%81/"/>
+    <id>http://yoursite.com/2016/10/13/通过-SSH-修改-mac-VNC-Server-密码/</id>
+    <published>2016-10-13T08:19:41.000Z</published>
+    <updated>2016-10-13T08:26:13.940Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;通过-SSH-修改-Mac-VNC-Server-密码&quot;&gt;&lt;a href=&quot;#通过-SSH-修改-Mac-VNC-Server-密码&quot; class=&quot;headerlink&quot; title=&quot;通过 SSH 修改 Mac VNC Server 密码&quot;&gt;&lt;/a&gt;通过 SSH 修改 Mac VNC Server 密码&lt;/h1&gt;&lt;p&gt;来源：&lt;a href=&quot;https://apple.stackexchange.com/questions/30238/how-to-enable-os-x-screen-sharing-vnc-through-ssh&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Stackexchange&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PS: 我的系统为 &lt;strong&gt;macOS Sierra 10.12&lt;/strong&gt;，使用以下命令修改成功。&lt;/p&gt;
+&lt;p&gt;输入以下命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo  /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -clientopts -setvnclegacy -vnclegacy yes -clientopts -setvncpw -vncpw &amp;lt;mypasswd&amp;gt; -restart -agent -privs -all
+&lt;/code&gt;&lt;/pre&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;Terminal 提示输入 mac 账户密码。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Password:
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;系统反馈：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Starting...
+Activated Remote Management.
+Stopped ARD Agent.
+target: Set user remote control privileges.
+target: Set user remote access.
+Set the client options.
+Done.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;OK~ 修改成功。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;通过-SSH-修改-Mac-VNC-Server-密码&quot;&gt;&lt;a href=&quot;#通过-SSH-修改-Mac-VNC-Server-密码&quot; class=&quot;headerlink&quot; title=&quot;通过 SSH 修改 Mac VNC Server 密码&quot;&gt;&lt;/a&gt;通过 SSH 修改 Mac VNC Server 密码&lt;/h1&gt;&lt;p&gt;来源：&lt;a href=&quot;https://apple.stackexchange.com/questions/30238/how-to-enable-os-x-screen-sharing-vnc-through-ssh&quot;&gt;Stackexchange&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PS: 我的系统为 &lt;strong&gt;macOS Sierra 10.12&lt;/strong&gt;，使用以下命令修改成功。&lt;/p&gt;
+&lt;p&gt;输入以下命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo  /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -clientopts -setvnclegacy -vnclegacy yes -clientopts -setvncpw -vncpw &amp;lt;mypasswd&amp;gt; -restart -agent -privs -all
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+      <category term="SSH VNC Mac" scheme="http://yoursite.com/tags/SSH-VNC-Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>微软键盘鼠标售后历程</title>
